@@ -9,5 +9,5 @@ function LayoutLab() {
 
 }
 
-f
+
 export default App
